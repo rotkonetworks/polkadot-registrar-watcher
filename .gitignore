@@ -6,3 +6,4 @@ helmfile.d/.cache
 helmfile.d/.config
 helmfile.d/.kube
 .idea
+.DS_Store
