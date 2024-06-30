@@ -2,7 +2,7 @@
 
 # Polkadot-Registrar-Watcher
 
-❗❗❗ THIS PROJECT IS DECOMMISSIONED AND NO LONGER UPDATED ❗❗❗
+❗❗❗ THIS PROJECT IS CURRENTLY UNDER DEVELOPMENT BY ROTKO NETWORKS ❗❗❗
 
 This application is the **Watcher** module of the **Polkadot-Registrar** application.    
 You can find the **Challenger** module here: https://github.com/w3f/polkadot-registrar-challenger  
@@ -19,13 +19,17 @@ Reference: https://wiki.polkadot.network/docs/en/learn-identity
 
 ## Table Of Contents
 
-* [The Watcher Functionalities](#the-watcher-functionalities)
-* [Requirements](#requirements) 
-* [How To Run](#how-to-run)
-* [How To Configure the Application](#how-to-configure-the-application)
-* [About WsPendingChallengesRequest](#about-wspendingchallengesrequest)
-* [WebSocket DTOs - the most important ones](#WebSocket-DTOs-\--the-most-important-ones)
-* [Communication / Events flow](#communication-/-events-flow)
+- [Polkadot-Registrar-Watcher](#polkadot-registrar-watcher)
+  - [Application Architecture](#application-architecture)
+  - [About the Polkadot Identity Naming System](#about-the-polkadot-identity-naming-system)
+  - [Table Of Contents](#table-of-contents)
+  - [The Watcher Functionalities](#the-watcher-functionalities)
+  - [Requirements](#requirements)
+  - [How To Run](#how-to-run)
+  - [How To Configure the Application](#how-to-configure-the-application)
+  - [About WsPendingChallengesRequest](#about-wspendingchallengesrequest)
+  - [WebSocket DTOs - the most important ones](#websocket-dtos---the-most-important-ones)
+  - [Communication / Events flow](#communication--events-flow)
 
 ## The Watcher Functionalities
 
